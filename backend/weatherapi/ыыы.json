@@ -1,0 +1,42 @@
+{
+    "coord":{
+        "lon":56.2855,
+        "lat":58.0174
+    },
+    "weather":[
+        {
+            "id":803,
+            "main":"Clouds",
+            "description":
+            "broken clouds",
+            "icon":"04d"
+        }
+    ],
+    "base":"stations",
+    "main":{
+        "temp":291.85,
+        "feels_like":291.32,
+        "temp_min":291.73,
+        "temp_max":291.85,
+        "pressure":1008,
+        "humidity":59
+    },
+    "visibility":10000,
+    "wind":{
+        "speed":1,
+        "deg":0
+    },
+    "clouds":{"all":75},
+    "dt":1689238202,
+    "sys":{
+        "type":1,
+        "id":8984,
+        "country":"RU",
+        "sunrise":1689204667,
+        "sunset":1689268172
+    },
+    "timezone":18000,
+    "id":511196,
+    "name":"Perm",
+    "cod":200
+}
